@@ -1,0 +1,1602 @@
+[
+  {
+    "record_id": 1,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 510,
+    "currency": "USD",
+    "date": "2024-03-23"
+  },
+  {
+    "record_id": 2,
+    "port": "Hamburg",
+    "fuel_type": "IFO380",
+    "price": 473,
+    "currency": "USD",
+    "date": "2024-03-02"
+  },
+  {
+    "record_id": 3,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 613,
+    "currency": "USD",
+    "date": "2024-01-26"
+  },
+  {
+    "record_id": 4,
+    "port": "Antwerp",
+    "fuel_type": "MGO",
+    "price": 645,
+    "currency": "USD",
+    "date": "2024-03-23"
+  },
+  {
+    "record_id": 5,
+    "port": "Fujairah",
+    "fuel_type": "VLSFO",
+    "price": 552,
+    "currency": "USD",
+    "date": "2024-03-18"
+  },
+  {
+    "record_id": 6,
+    "port": "Shanghai",
+    "fuel_type": "MGO",
+    "price": 466,
+    "currency": "USD",
+    "date": "2024-01-05"
+  },
+  {
+    "record_id": 7,
+    "port": "Hamburg",
+    "fuel_type": "IFO380",
+    "price": 489,
+    "currency": "USD",
+    "date": "2024-01-08"
+  },
+  {
+    "record_id": 8,
+    "port": "Busan",
+    "fuel_type": "IFO380",
+    "price": 450,
+    "currency": "USD",
+    "date": "2024-03-04"
+  },
+  {
+    "record_id": 9,
+    "port": "Rotterdam",
+    "fuel_type": "MGO",
+    "price": 477,
+    "currency": "USD",
+    "date": "2024-03-11"
+  },
+  {
+    "record_id": 10,
+    "port": "Hamburg",
+    "fuel_type": "VLSFO",
+    "price": 511,
+    "currency": "USD",
+    "date": "2024-03-30"
+  },
+  {
+    "record_id": 11,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 458,
+    "currency": "USD",
+    "date": "2024-02-18"
+  },
+  {
+    "record_id": 12,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 454,
+    "currency": "USD",
+    "date": "2024-03-16"
+  },
+  {
+    "record_id": 13,
+    "port": "Busan",
+    "fuel_type": "VLSFO",
+    "price": 526,
+    "currency": "USD",
+    "date": "2024-02-17"
+  },
+  {
+    "record_id": 14,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 630,
+    "currency": "USD",
+    "date": "2024-03-25"
+  },
+  {
+    "record_id": 15,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 457,
+    "currency": "USD",
+    "date": "2024-03-26"
+  },
+  {
+    "record_id": 16,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 563,
+    "currency": "USD",
+    "date": "2024-02-20"
+  },
+  {
+    "record_id": 17,
+    "port": "Rotterdam",
+    "fuel_type": "MGO",
+    "price": 553,
+    "currency": "USD",
+    "date": "2024-01-14"
+  },
+  {
+    "record_id": 18,
+    "port": "Singapore",
+    "fuel_type": "IFO380",
+    "price": 619,
+    "currency": "USD",
+    "date": "2024-01-23"
+  },
+  {
+    "record_id": 19,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 557,
+    "currency": "USD",
+    "date": "2024-02-22"
+  },
+  {
+    "record_id": 20,
+    "port": "Los Angeles",
+    "fuel_type": "MGO",
+    "price": 597,
+    "currency": "USD",
+    "date": "2024-01-15"
+  },
+  {
+    "record_id": 21,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 462,
+    "currency": "USD",
+    "date": "2024-01-12"
+  },
+  {
+    "record_id": 22,
+    "port": "Antwerp",
+    "fuel_type": "MGO",
+    "price": 464,
+    "currency": "USD",
+    "date": "2024-01-07"
+  },
+  {
+    "record_id": 23,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 536,
+    "currency": "USD",
+    "date": "2024-03-30"
+  },
+  {
+    "record_id": 24,
+    "port": "Hamburg",
+    "fuel_type": "VLSFO",
+    "price": 617,
+    "currency": "USD",
+    "date": "2024-03-23"
+  },
+  {
+    "record_id": 25,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 621,
+    "currency": "USD",
+    "date": "2024-03-16"
+  },
+  {
+    "record_id": 26,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 564,
+    "currency": "USD",
+    "date": "2024-02-19"
+  },
+  {
+    "record_id": 27,
+    "port": "Antwerp",
+    "fuel_type": "MGO",
+    "price": 453,
+    "currency": "USD",
+    "date": "2024-02-14"
+  },
+  {
+    "record_id": 28,
+    "port": "Rotterdam",
+    "fuel_type": "MGO",
+    "price": 594,
+    "currency": "USD",
+    "date": "2024-03-03"
+  },
+  {
+    "record_id": 29,
+    "port": "Busan",
+    "fuel_type": "IFO380",
+    "price": 461,
+    "currency": "USD",
+    "date": "2024-02-27"
+  },
+  {
+    "record_id": 30,
+    "port": "Shanghai",
+    "fuel_type": "VLSFO",
+    "price": 529,
+    "currency": "USD",
+    "date": "2024-03-14"
+  },
+  {
+    "record_id": 31,
+    "port": "Singapore",
+    "fuel_type": "IFO380",
+    "price": 638,
+    "currency": "USD",
+    "date": "2024-01-16"
+  },
+  {
+    "record_id": 32,
+    "port": "Los Angeles",
+    "fuel_type": "MGO",
+    "price": 544,
+    "currency": "USD",
+    "date": "2024-01-20"
+  },
+  {
+    "record_id": 33,
+    "port": "Singapore",
+    "fuel_type": "IFO380",
+    "price": 582,
+    "currency": "USD",
+    "date": "2024-02-23"
+  },
+  {
+    "record_id": 34,
+    "port": "Antwerp",
+    "fuel_type": "IFO380",
+    "price": 596,
+    "currency": "USD",
+    "date": "2024-03-03"
+  },
+  {
+    "record_id": 35,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 478,
+    "currency": "USD",
+    "date": "2024-01-21"
+  },
+  {
+    "record_id": 36,
+    "port": "Los Angeles",
+    "fuel_type": "MGO",
+    "price": 473,
+    "currency": "USD",
+    "date": "2024-01-24"
+  },
+  {
+    "record_id": 37,
+    "port": "Los Angeles",
+    "fuel_type": "MGO",
+    "price": 627,
+    "currency": "USD",
+    "date": "2024-03-10"
+  },
+  {
+    "record_id": 38,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 547,
+    "currency": "USD",
+    "date": "2024-02-14"
+  },
+  {
+    "record_id": 39,
+    "port": "Los Angeles",
+    "fuel_type": "MGO",
+    "price": 578,
+    "currency": "USD",
+    "date": "2024-01-18"
+  },
+  {
+    "record_id": 40,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 480,
+    "currency": "USD",
+    "date": "2024-03-17"
+  },
+  {
+    "record_id": 41,
+    "port": "Antwerp",
+    "fuel_type": "MGO",
+    "price": 628,
+    "currency": "USD",
+    "date": "2024-03-23"
+  },
+  {
+    "record_id": 42,
+    "port": "Singapore",
+    "fuel_type": "IFO380",
+    "price": 638,
+    "currency": "USD",
+    "date": "2024-01-12"
+  },
+  {
+    "record_id": 43,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 516,
+    "currency": "USD",
+    "date": "2024-02-26"
+  },
+  {
+    "record_id": 44,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 576,
+    "currency": "USD",
+    "date": "2024-03-06"
+  },
+  {
+    "record_id": 45,
+    "port": "Rotterdam",
+    "fuel_type": "MGO",
+    "price": 470,
+    "currency": "USD",
+    "date": "2024-02-12"
+  },
+  {
+    "record_id": 46,
+    "port": "Busan",
+    "fuel_type": "VLSFO",
+    "price": 571,
+    "currency": "USD",
+    "date": "2024-02-05"
+  },
+  {
+    "record_id": 47,
+    "port": "Rotterdam",
+    "fuel_type": "MGO",
+    "price": 508,
+    "currency": "USD",
+    "date": "2024-01-25"
+  },
+  {
+    "record_id": 48,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 502,
+    "currency": "USD",
+    "date": "2024-01-26"
+  },
+  {
+    "record_id": 49,
+    "port": "Shanghai",
+    "fuel_type": "MGO",
+    "price": 501,
+    "currency": "USD",
+    "date": "2024-01-12"
+  },
+  {
+    "record_id": 50,
+    "port": "Rotterdam",
+    "fuel_type": "IFO380",
+    "price": 545,
+    "currency": "USD",
+    "date": "2024-01-10"
+  },
+  {
+    "record_id": 51,
+    "port": "Hamburg",
+    "fuel_type": "IFO380",
+    "price": 636,
+    "currency": "USD",
+    "date": "2024-03-02"
+  },
+  {
+    "record_id": 52,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 492,
+    "currency": "USD",
+    "date": "2024-02-20"
+  },
+  {
+    "record_id": 53,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 566,
+    "currency": "USD",
+    "date": "2024-03-24"
+  },
+  {
+    "record_id": 54,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 537,
+    "currency": "USD",
+    "date": "2024-01-22"
+  },
+  {
+    "record_id": 55,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 609,
+    "currency": "USD",
+    "date": "2024-01-07"
+  },
+  {
+    "record_id": 56,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 586,
+    "currency": "USD",
+    "date": "2024-02-03"
+  },
+  {
+    "record_id": 57,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 497,
+    "currency": "USD",
+    "date": "2024-03-11"
+  },
+  {
+    "record_id": 58,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 616,
+    "currency": "USD",
+    "date": "2024-01-26"
+  },
+  {
+    "record_id": 59,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 533,
+    "currency": "USD",
+    "date": "2024-03-15"
+  },
+  {
+    "record_id": 60,
+    "port": "Los Angeles",
+    "fuel_type": "MGO",
+    "price": 618,
+    "currency": "USD",
+    "date": "2024-01-02"
+  },
+  {
+    "record_id": 61,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 562,
+    "currency": "USD",
+    "date": "2024-03-07"
+  },
+  {
+    "record_id": 62,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 534,
+    "currency": "USD",
+    "date": "2024-03-14"
+  },
+  {
+    "record_id": 63,
+    "port": "Shanghai",
+    "fuel_type": "MGO",
+    "price": 599,
+    "currency": "USD",
+    "date": "2024-01-25"
+  },
+  {
+    "record_id": 64,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 580,
+    "currency": "USD",
+    "date": "2024-03-18"
+  },
+  {
+    "record_id": 65,
+    "port": "Los Angeles",
+    "fuel_type": "MGO",
+    "price": 513,
+    "currency": "USD",
+    "date": "2024-03-16"
+  },
+  {
+    "record_id": 66,
+    "port": "Antwerp",
+    "fuel_type": "IFO380",
+    "price": 615,
+    "currency": "USD",
+    "date": "2024-01-06"
+  },
+  {
+    "record_id": 67,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 487,
+    "currency": "USD",
+    "date": "2024-01-22"
+  },
+  {
+    "record_id": 68,
+    "port": "Antwerp",
+    "fuel_type": "IFO380",
+    "price": 481,
+    "currency": "USD",
+    "date": "2024-01-01"
+  },
+  {
+    "record_id": 69,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 557,
+    "currency": "USD",
+    "date": "2024-01-21"
+  },
+  {
+    "record_id": 70,
+    "port": "Shanghai",
+    "fuel_type": "MGO",
+    "price": 591,
+    "currency": "USD",
+    "date": "2024-02-19"
+  },
+  {
+    "record_id": 71,
+    "port": "Busan",
+    "fuel_type": "MGO",
+    "price": 602,
+    "currency": "USD",
+    "date": "2024-02-29"
+  },
+  {
+    "record_id": 72,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 602,
+    "currency": "USD",
+    "date": "2024-02-19"
+  },
+  {
+    "record_id": 73,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 603,
+    "currency": "USD",
+    "date": "2024-03-15"
+  },
+  {
+    "record_id": 74,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 567,
+    "currency": "USD",
+    "date": "2024-01-27"
+  },
+  {
+    "record_id": 75,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 641,
+    "currency": "USD",
+    "date": "2024-03-04"
+  },
+  {
+    "record_id": 76,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 532,
+    "currency": "USD",
+    "date": "2024-02-10"
+  },
+  {
+    "record_id": 77,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 452,
+    "currency": "USD",
+    "date": "2024-03-07"
+  },
+  {
+    "record_id": 78,
+    "port": "Busan",
+    "fuel_type": "MGO",
+    "price": 612,
+    "currency": "USD",
+    "date": "2024-02-16"
+  },
+  {
+    "record_id": 79,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 586,
+    "currency": "USD",
+    "date": "2024-01-29"
+  },
+  {
+    "record_id": 80,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 497,
+    "currency": "USD",
+    "date": "2024-03-05"
+  },
+  {
+    "record_id": 81,
+    "port": "Shanghai",
+    "fuel_type": "VLSFO",
+    "price": 634,
+    "currency": "USD",
+    "date": "2024-03-30"
+  },
+  {
+    "record_id": 82,
+    "port": "Rotterdam",
+    "fuel_type": "MGO",
+    "price": 541,
+    "currency": "USD",
+    "date": "2024-02-14"
+  },
+  {
+    "record_id": 83,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 569,
+    "currency": "USD",
+    "date": "2024-01-06"
+  },
+  {
+    "record_id": 84,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 631,
+    "currency": "USD",
+    "date": "2024-03-11"
+  },
+  {
+    "record_id": 85,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 541,
+    "currency": "USD",
+    "date": "2024-03-20"
+  },
+  {
+    "record_id": 86,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 498,
+    "currency": "USD",
+    "date": "2024-01-31"
+  },
+  {
+    "record_id": 87,
+    "port": "Hamburg",
+    "fuel_type": "IFO380",
+    "price": 541,
+    "currency": "USD",
+    "date": "2024-02-11"
+  },
+  {
+    "record_id": 88,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 591,
+    "currency": "USD",
+    "date": "2024-03-08"
+  },
+  {
+    "record_id": 89,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 510,
+    "currency": "USD",
+    "date": "2024-03-24"
+  },
+  {
+    "record_id": 90,
+    "port": "Fujairah",
+    "fuel_type": "VLSFO",
+    "price": 616,
+    "currency": "USD",
+    "date": "2024-03-19"
+  },
+  {
+    "record_id": 91,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 502,
+    "currency": "USD",
+    "date": "2024-01-07"
+  },
+  {
+    "record_id": 92,
+    "port": "Rotterdam",
+    "fuel_type": "MGO",
+    "price": 650,
+    "currency": "USD",
+    "date": "2024-01-18"
+  },
+  {
+    "record_id": 93,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 462,
+    "currency": "USD",
+    "date": "2024-02-08"
+  },
+  {
+    "record_id": 94,
+    "port": "Rotterdam",
+    "fuel_type": "MGO",
+    "price": 605,
+    "currency": "USD",
+    "date": "2024-03-16"
+  },
+  {
+    "record_id": 95,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 527,
+    "currency": "USD",
+    "date": "2024-03-12"
+  },
+  {
+    "record_id": 96,
+    "port": "Fujairah",
+    "fuel_type": "VLSFO",
+    "price": 606,
+    "currency": "USD",
+    "date": "2024-02-24"
+  },
+  {
+    "record_id": 97,
+    "port": "Shanghai",
+    "fuel_type": "VLSFO",
+    "price": 541,
+    "currency": "USD",
+    "date": "2024-02-19"
+  },
+  {
+    "record_id": 98,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 515,
+    "currency": "USD",
+    "date": "2024-03-01"
+  },
+  {
+    "record_id": 99,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 459,
+    "currency": "USD",
+    "date": "2024-02-01"
+  },
+  {
+    "record_id": 100,
+    "port": "Hamburg",
+    "fuel_type": "IFO380",
+    "price": 604,
+    "currency": "USD",
+    "date": "2024-03-06"
+  },
+  {
+    "record_id": 101,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 499,
+    "currency": "USD",
+    "date": "2024-01-12"
+  },
+  {
+    "record_id": 102,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 451,
+    "currency": "USD",
+    "date": "2024-02-08"
+  },
+  {
+    "record_id": 103,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 485,
+    "currency": "USD",
+    "date": "2024-02-09"
+  },
+  {
+    "record_id": 104,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 488,
+    "currency": "USD",
+    "date": "2024-01-31"
+  },
+  {
+    "record_id": 105,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 644,
+    "currency": "USD",
+    "date": "2024-01-25"
+  },
+  {
+    "record_id": 106,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 588,
+    "currency": "USD",
+    "date": "2024-02-19"
+  },
+  {
+    "record_id": 107,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 537,
+    "currency": "USD",
+    "date": "2024-03-14"
+  },
+  {
+    "record_id": 108,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 471,
+    "currency": "USD",
+    "date": "2024-01-30"
+  },
+  {
+    "record_id": 109,
+    "port": "Busan",
+    "fuel_type": "MGO",
+    "price": 482,
+    "currency": "USD",
+    "date": "2024-01-10"
+  },
+  {
+    "record_id": 110,
+    "port": "Shanghai",
+    "fuel_type": "MGO",
+    "price": 478,
+    "currency": "USD",
+    "date": "2024-02-08"
+  },
+  {
+    "record_id": 111,
+    "port": "Antwerp",
+    "fuel_type": "IFO380",
+    "price": 634,
+    "currency": "USD",
+    "date": "2024-01-05"
+  },
+  {
+    "record_id": 112,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 519,
+    "currency": "USD",
+    "date": "2024-01-28"
+  },
+  {
+    "record_id": 113,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 463,
+    "currency": "USD",
+    "date": "2024-03-31"
+  },
+  {
+    "record_id": 114,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 641,
+    "currency": "USD",
+    "date": "2024-02-23"
+  },
+  {
+    "record_id": 115,
+    "port": "Fujairah",
+    "fuel_type": "VLSFO",
+    "price": 567,
+    "currency": "USD",
+    "date": "2024-01-15"
+  },
+  {
+    "record_id": 116,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 588,
+    "currency": "USD",
+    "date": "2024-01-29"
+  },
+  {
+    "record_id": 117,
+    "port": "Busan",
+    "fuel_type": "IFO380",
+    "price": 581,
+    "currency": "USD",
+    "date": "2024-02-25"
+  },
+  {
+    "record_id": 118,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 533,
+    "currency": "USD",
+    "date": "2024-01-02"
+  },
+  {
+    "record_id": 119,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 539,
+    "currency": "USD",
+    "date": "2024-03-23"
+  },
+  {
+    "record_id": 120,
+    "port": "Busan",
+    "fuel_type": "IFO380",
+    "price": 604,
+    "currency": "USD",
+    "date": "2024-02-28"
+  },
+  {
+    "record_id": 121,
+    "port": "Hamburg",
+    "fuel_type": "VLSFO",
+    "price": 622,
+    "currency": "USD",
+    "date": "2024-02-22"
+  },
+  {
+    "record_id": 122,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 459,
+    "currency": "USD",
+    "date": "2024-02-24"
+  },
+  {
+    "record_id": 123,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 620,
+    "currency": "USD",
+    "date": "2024-01-02"
+  },
+  {
+    "record_id": 124,
+    "port": "Rotterdam",
+    "fuel_type": "IFO380",
+    "price": 545,
+    "currency": "USD",
+    "date": "2024-01-22"
+  },
+  {
+    "record_id": 125,
+    "port": "Shanghai",
+    "fuel_type": "VLSFO",
+    "price": 612,
+    "currency": "USD",
+    "date": "2024-02-14"
+  },
+  {
+    "record_id": 126,
+    "port": "Busan",
+    "fuel_type": "IFO380",
+    "price": 537,
+    "currency": "USD",
+    "date": "2024-01-13"
+  },
+  {
+    "record_id": 127,
+    "port": "Shanghai",
+    "fuel_type": "MGO",
+    "price": 639,
+    "currency": "USD",
+    "date": "2024-02-02"
+  },
+  {
+    "record_id": 128,
+    "port": "Hamburg",
+    "fuel_type": "VLSFO",
+    "price": 596,
+    "currency": "USD",
+    "date": "2024-01-04"
+  },
+  {
+    "record_id": 129,
+    "port": "Los Angeles",
+    "fuel_type": "MGO",
+    "price": 636,
+    "currency": "USD",
+    "date": "2024-01-14"
+  },
+  {
+    "record_id": 130,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 639,
+    "currency": "USD",
+    "date": "2024-03-25"
+  },
+  {
+    "record_id": 131,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 625,
+    "currency": "USD",
+    "date": "2024-02-20"
+  },
+  {
+    "record_id": 132,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 524,
+    "currency": "USD",
+    "date": "2024-03-28"
+  },
+  {
+    "record_id": 133,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 589,
+    "currency": "USD",
+    "date": "2024-01-11"
+  },
+  {
+    "record_id": 134,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 552,
+    "currency": "USD",
+    "date": "2024-01-06"
+  },
+  {
+    "record_id": 135,
+    "port": "Busan",
+    "fuel_type": "MGO",
+    "price": 645,
+    "currency": "USD",
+    "date": "2024-02-25"
+  },
+  {
+    "record_id": 136,
+    "port": "Fujairah",
+    "fuel_type": "VLSFO",
+    "price": 453,
+    "currency": "USD",
+    "date": "2024-03-12"
+  },
+  {
+    "record_id": 137,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 464,
+    "currency": "USD",
+    "date": "2024-02-22"
+  },
+  {
+    "record_id": 138,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 496,
+    "currency": "USD",
+    "date": "2024-02-17"
+  },
+  {
+    "record_id": 139,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 618,
+    "currency": "USD",
+    "date": "2024-01-04"
+  },
+  {
+    "record_id": 140,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 530,
+    "currency": "USD",
+    "date": "2024-01-21"
+  },
+  {
+    "record_id": 141,
+    "port": "Shanghai",
+    "fuel_type": "VLSFO",
+    "price": 544,
+    "currency": "USD",
+    "date": "2024-02-17"
+  },
+  {
+    "record_id": 142,
+    "port": "Busan",
+    "fuel_type": "IFO380",
+    "price": 534,
+    "currency": "USD",
+    "date": "2024-01-26"
+  },
+  {
+    "record_id": 143,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 605,
+    "currency": "USD",
+    "date": "2024-01-13"
+  },
+  {
+    "record_id": 144,
+    "port": "Antwerp",
+    "fuel_type": "MGO",
+    "price": 512,
+    "currency": "USD",
+    "date": "2024-01-08"
+  },
+  {
+    "record_id": 145,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 535,
+    "currency": "USD",
+    "date": "2024-02-24"
+  },
+  {
+    "record_id": 146,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 464,
+    "currency": "USD",
+    "date": "2024-01-29"
+  },
+  {
+    "record_id": 147,
+    "port": "Singapore",
+    "fuel_type": "IFO380",
+    "price": 541,
+    "currency": "USD",
+    "date": "2024-02-24"
+  },
+  {
+    "record_id": 148,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 605,
+    "currency": "USD",
+    "date": "2024-03-29"
+  },
+  {
+    "record_id": 149,
+    "port": "Shanghai",
+    "fuel_type": "VLSFO",
+    "price": 570,
+    "currency": "USD",
+    "date": "2024-01-09"
+  },
+  {
+    "record_id": 150,
+    "port": "Busan",
+    "fuel_type": "IFO380",
+    "price": 480,
+    "currency": "USD",
+    "date": "2024-01-25"
+  },
+  {
+    "record_id": 151,
+    "port": "Busan",
+    "fuel_type": "VLSFO",
+    "price": 515,
+    "currency": "USD",
+    "date": "2024-02-02"
+  },
+  {
+    "record_id": 152,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 593,
+    "currency": "USD",
+    "date": "2024-03-21"
+  },
+  {
+    "record_id": 153,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 524,
+    "currency": "USD",
+    "date": "2024-02-25"
+  },
+  {
+    "record_id": 154,
+    "port": "Fujairah",
+    "fuel_type": "VLSFO",
+    "price": 454,
+    "currency": "USD",
+    "date": "2024-01-10"
+  },
+  {
+    "record_id": 155,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 528,
+    "currency": "USD",
+    "date": "2024-01-06"
+  },
+  {
+    "record_id": 156,
+    "port": "Fujairah",
+    "fuel_type": "MGO",
+    "price": 470,
+    "currency": "USD",
+    "date": "2024-02-23"
+  },
+  {
+    "record_id": 157,
+    "port": "Busan",
+    "fuel_type": "MGO",
+    "price": 575,
+    "currency": "USD",
+    "date": "2024-01-01"
+  },
+  {
+    "record_id": 158,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 497,
+    "currency": "USD",
+    "date": "2024-03-07"
+  },
+  {
+    "record_id": 159,
+    "port": "Hamburg",
+    "fuel_type": "VLSFO",
+    "price": 601,
+    "currency": "USD",
+    "date": "2024-01-05"
+  },
+  {
+    "record_id": 160,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 639,
+    "currency": "USD",
+    "date": "2024-01-23"
+  },
+  {
+    "record_id": 161,
+    "port": "Antwerp",
+    "fuel_type": "VLSFO",
+    "price": 536,
+    "currency": "USD",
+    "date": "2024-03-28"
+  },
+  {
+    "record_id": 162,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 576,
+    "currency": "USD",
+    "date": "2024-01-11"
+  },
+  {
+    "record_id": 163,
+    "port": "Busan",
+    "fuel_type": "MGO",
+    "price": 477,
+    "currency": "USD",
+    "date": "2024-01-29"
+  },
+  {
+    "record_id": 164,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 625,
+    "currency": "USD",
+    "date": "2024-01-18"
+  },
+  {
+    "record_id": 165,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 640,
+    "currency": "USD",
+    "date": "2024-03-25"
+  },
+  {
+    "record_id": 166,
+    "port": "Shanghai",
+    "fuel_type": "MGO",
+    "price": 507,
+    "currency": "USD",
+    "date": "2024-03-01"
+  },
+  {
+    "record_id": 167,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 635,
+    "currency": "USD",
+    "date": "2024-01-04"
+  },
+  {
+    "record_id": 168,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 505,
+    "currency": "USD",
+    "date": "2024-03-28"
+  },
+  {
+    "record_id": 169,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 575,
+    "currency": "USD",
+    "date": "2024-03-12"
+  },
+  {
+    "record_id": 170,
+    "port": "Fujairah",
+    "fuel_type": "IFO380",
+    "price": 463,
+    "currency": "USD",
+    "date": "2024-02-08"
+  },
+  {
+    "record_id": 171,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 623,
+    "currency": "USD",
+    "date": "2024-01-07"
+  },
+  {
+    "record_id": 172,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 607,
+    "currency": "USD",
+    "date": "2024-02-25"
+  },
+  {
+    "record_id": 173,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 485,
+    "currency": "USD",
+    "date": "2024-02-08"
+  },
+  {
+    "record_id": 174,
+    "port": "Rotterdam",
+    "fuel_type": "VLSFO",
+    "price": 535,
+    "currency": "USD",
+    "date": "2024-02-26"
+  },
+  {
+    "record_id": 175,
+    "port": "Hamburg",
+    "fuel_type": "IFO380",
+    "price": 523,
+    "currency": "USD",
+    "date": "2024-01-22"
+  },
+  {
+    "record_id": 176,
+    "port": "Shanghai",
+    "fuel_type": "VLSFO",
+    "price": 467,
+    "currency": "USD",
+    "date": "2024-03-06"
+  },
+  {
+    "record_id": 177,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 506,
+    "currency": "USD",
+    "date": "2024-01-11"
+  },
+  {
+    "record_id": 178,
+    "port": "Antwerp",
+    "fuel_type": "MGO",
+    "price": 457,
+    "currency": "USD",
+    "date": "2024-01-16"
+  },
+  {
+    "record_id": 179,
+    "port": "Hamburg",
+    "fuel_type": "IFO380",
+    "price": 526,
+    "currency": "USD",
+    "date": "2024-03-16"
+  },
+  {
+    "record_id": 180,
+    "port": "Los Angeles",
+    "fuel_type": "IFO380",
+    "price": 469,
+    "currency": "USD",
+    "date": "2024-01-09"
+  },
+  {
+    "record_id": 181,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 553,
+    "currency": "USD",
+    "date": "2024-01-18"
+  },
+  {
+    "record_id": 182,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 645,
+    "currency": "USD",
+    "date": "2024-02-24"
+  },
+  {
+    "record_id": 183,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 468,
+    "currency": "USD",
+    "date": "2024-03-31"
+  },
+  {
+    "record_id": 184,
+    "port": "Shanghai",
+    "fuel_type": "IFO380",
+    "price": 544,
+    "currency": "USD",
+    "date": "2024-02-25"
+  },
+  {
+    "record_id": 185,
+    "port": "Shanghai",
+    "fuel_type": "VLSFO",
+    "price": 633,
+    "currency": "USD",
+    "date": "2024-01-18"
+  },
+  {
+    "record_id": 186,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 564,
+    "currency": "USD",
+    "date": "2024-01-02"
+  },
+  {
+    "record_id": 187,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 547,
+    "currency": "USD",
+    "date": "2024-03-07"
+  },
+  {
+    "record_id": 188,
+    "port": "Busan",
+    "fuel_type": "MGO",
+    "price": 633,
+    "currency": "USD",
+    "date": "2024-02-04"
+  },
+  {
+    "record_id": 189,
+    "port": "Rotterdam",
+    "fuel_type": "IFO380",
+    "price": 632,
+    "currency": "USD",
+    "date": "2024-03-07"
+  },
+  {
+    "record_id": 190,
+    "port": "Shanghai",
+    "fuel_type": "MGO",
+    "price": 595,
+    "currency": "USD",
+    "date": "2024-03-01"
+  },
+  {
+    "record_id": 191,
+    "port": "Antwerp",
+    "fuel_type": "IFO380",
+    "price": 613,
+    "currency": "USD",
+    "date": "2024-01-14"
+  },
+  {
+    "record_id": 192,
+    "port": "Singapore",
+    "fuel_type": "VLSFO",
+    "price": 557,
+    "currency": "USD",
+    "date": "2024-01-12"
+  },
+  {
+    "record_id": 193,
+    "port": "Hamburg",
+    "fuel_type": "IFO380",
+    "price": 480,
+    "currency": "USD",
+    "date": "2024-01-15"
+  },
+  {
+    "record_id": 194,
+    "port": "Fujairah",
+    "fuel_type": "VLSFO",
+    "price": 578,
+    "currency": "USD",
+    "date": "2024-02-24"
+  },
+  {
+    "record_id": 195,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 592,
+    "currency": "USD",
+    "date": "2024-03-18"
+  },
+  {
+    "record_id": 196,
+    "port": "Los Angeles",
+    "fuel_type": "VLSFO",
+    "price": 487,
+    "currency": "USD",
+    "date": "2024-02-02"
+  },
+  {
+    "record_id": 197,
+    "port": "Shanghai",
+    "fuel_type": "VLSFO",
+    "price": 555,
+    "currency": "USD",
+    "date": "2024-01-19"
+  },
+  {
+    "record_id": 198,
+    "port": "Hamburg",
+    "fuel_type": "MGO",
+    "price": 645,
+    "currency": "USD",
+    "date": "2024-03-01"
+  },
+  {
+    "record_id": 199,
+    "port": "Singapore",
+    "fuel_type": "MGO",
+    "price": 468,
+    "currency": "USD",
+    "date": "2024-03-10"
+  },
+  {
+    "record_id": 200,
+    "port": "Busan",
+    "fuel_type": "IFO380",
+    "price": 471,
+    "currency": "USD",
+    "date": "2024-03-15"
+  }
+]

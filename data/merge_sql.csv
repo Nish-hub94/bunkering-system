@@ -1,0 +1,201 @@
+currency,date,fuel_type,port,price,record_id,port_id,port_name,country
+USD,2024-03-23,IFO380,Los Angeles,510,1,8,Los Angeles,USA
+USD,2024-03-02,IFO380,Hamburg,473,2,7,Hamburg,Germany
+USD,2024-01-26,MGO,Hamburg,613,3,7,Hamburg,Germany
+USD,2024-03-23,MGO,Antwerp,645,4,6,Antwerp,Belgium
+USD,2024-03-18,VLSFO,Fujairah,552,5,4,Fujairah,UAE
+USD,2024-01-05,MGO,Shanghai,466,6,3,Shanghai,China
+USD,2024-01-08,IFO380,Hamburg,489,7,7,Hamburg,Germany
+USD,2024-03-04,IFO380,Busan,450,8,5,Busan,South Korea
+USD,2024-03-11,MGO,Rotterdam,477,9,1,Rotterdam,Netherlands
+USD,2024-03-30,VLSFO,Hamburg,511,10,7,Hamburg,Germany
+USD,2024-02-18,VLSFO,Rotterdam,458,11,1,Rotterdam,Netherlands
+USD,2024-03-16,VLSFO,Singapore,454,12,2,Singapore,Singapore
+USD,2024-02-17,VLSFO,Busan,526,13,5,Busan,South Korea
+USD,2024-03-25,MGO,Fujairah,630,14,4,Fujairah,UAE
+USD,2024-03-26,MGO,Fujairah,457,15,4,Fujairah,UAE
+USD,2024-02-20,VLSFO,Rotterdam,563,16,1,Rotterdam,Netherlands
+USD,2024-01-14,MGO,Rotterdam,553,17,1,Rotterdam,Netherlands
+USD,2024-01-23,IFO380,Singapore,619,18,2,Singapore,Singapore
+USD,2024-02-22,MGO,Fujairah,557,19,4,Fujairah,UAE
+USD,2024-01-15,MGO,Los Angeles,597,20,8,Los Angeles,USA
+USD,2024-01-12,IFO380,Los Angeles,462,21,8,Los Angeles,USA
+USD,2024-01-07,MGO,Antwerp,464,22,6,Antwerp,Belgium
+USD,2024-03-30,MGO,Singapore,536,23,2,Singapore,Singapore
+USD,2024-03-23,VLSFO,Hamburg,617,24,7,Hamburg,Germany
+USD,2024-03-16,IFO380,Los Angeles,621,25,8,Los Angeles,USA
+USD,2024-02-19,VLSFO,Rotterdam,564,26,1,Rotterdam,Netherlands
+USD,2024-02-14,MGO,Antwerp,453,27,6,Antwerp,Belgium
+USD,2024-03-03,MGO,Rotterdam,594,28,1,Rotterdam,Netherlands
+USD,2024-02-27,IFO380,Busan,461,29,5,Busan,South Korea
+USD,2024-03-14,VLSFO,Shanghai,529,30,3,Shanghai,China
+USD,2024-01-16,IFO380,Singapore,638,31,2,Singapore,Singapore
+USD,2024-01-20,MGO,Los Angeles,544,32,8,Los Angeles,USA
+USD,2024-02-23,IFO380,Singapore,582,33,2,Singapore,Singapore
+USD,2024-03-03,IFO380,Antwerp,596,34,6,Antwerp,Belgium
+USD,2024-01-21,IFO380,Fujairah,478,35,4,Fujairah,UAE
+USD,2024-01-24,MGO,Los Angeles,473,36,8,Los Angeles,USA
+USD,2024-03-10,MGO,Los Angeles,627,37,8,Los Angeles,USA
+USD,2024-02-14,IFO380,Fujairah,547,38,4,Fujairah,UAE
+USD,2024-01-18,MGO,Los Angeles,578,39,8,Los Angeles,USA
+USD,2024-03-17,IFO380,Fujairah,480,40,4,Fujairah,UAE
+USD,2024-03-23,MGO,Antwerp,628,41,6,Antwerp,Belgium
+USD,2024-01-12,IFO380,Singapore,638,42,2,Singapore,Singapore
+USD,2024-02-26,IFO380,Los Angeles,516,43,8,Los Angeles,USA
+USD,2024-03-06,VLSFO,Los Angeles,576,44,8,Los Angeles,USA
+USD,2024-02-12,MGO,Rotterdam,470,45,1,Rotterdam,Netherlands
+USD,2024-02-05,VLSFO,Busan,571,46,5,Busan,South Korea
+USD,2024-01-25,MGO,Rotterdam,508,47,1,Rotterdam,Netherlands
+USD,2024-01-26,MGO,Fujairah,502,48,4,Fujairah,UAE
+USD,2024-01-12,MGO,Shanghai,501,49,3,Shanghai,China
+USD,2024-01-10,IFO380,Rotterdam,545,50,1,Rotterdam,Netherlands
+USD,2024-03-02,IFO380,Hamburg,636,51,7,Hamburg,Germany
+USD,2024-02-20,VLSFO,Singapore,492,52,2,Singapore,Singapore
+USD,2024-03-24,MGO,Fujairah,566,53,4,Fujairah,UAE
+USD,2024-01-22,MGO,Hamburg,537,54,7,Hamburg,Germany
+USD,2024-01-07,MGO,Fujairah,609,55,4,Fujairah,UAE
+USD,2024-02-03,VLSFO,Rotterdam,586,56,1,Rotterdam,Netherlands
+USD,2024-03-11,VLSFO,Singapore,497,57,2,Singapore,Singapore
+USD,2024-01-26,VLSFO,Antwerp,616,58,6,Antwerp,Belgium
+USD,2024-03-15,MGO,Singapore,533,59,2,Singapore,Singapore
+USD,2024-01-02,MGO,Los Angeles,618,60,8,Los Angeles,USA
+USD,2024-03-07,IFO380,Shanghai,562,61,3,Shanghai,China
+USD,2024-03-14,IFO380,Shanghai,534,62,3,Shanghai,China
+USD,2024-01-25,MGO,Shanghai,599,63,3,Shanghai,China
+USD,2024-03-18,MGO,Hamburg,580,64,7,Hamburg,Germany
+USD,2024-03-16,MGO,Los Angeles,513,65,8,Los Angeles,USA
+USD,2024-01-06,IFO380,Antwerp,615,66,6,Antwerp,Belgium
+USD,2024-01-22,VLSFO,Antwerp,487,67,6,Antwerp,Belgium
+USD,2024-01-01,IFO380,Antwerp,481,68,6,Antwerp,Belgium
+USD,2024-01-21,VLSFO,Antwerp,557,69,6,Antwerp,Belgium
+USD,2024-02-19,MGO,Shanghai,591,70,3,Shanghai,China
+USD,2024-02-29,MGO,Busan,602,71,5,Busan,South Korea
+USD,2024-02-19,MGO,Hamburg,602,72,7,Hamburg,Germany
+USD,2024-03-15,VLSFO,Singapore,603,73,2,Singapore,Singapore
+USD,2024-01-27,IFO380,Shanghai,567,74,3,Shanghai,China
+USD,2024-03-04,VLSFO,Antwerp,641,75,6,Antwerp,Belgium
+USD,2024-02-10,VLSFO,Antwerp,532,76,6,Antwerp,Belgium
+USD,2024-03-07,IFO380,Los Angeles,452,77,8,Los Angeles,USA
+USD,2024-02-16,MGO,Busan,612,78,5,Busan,South Korea
+USD,2024-01-29,IFO380,Shanghai,586,79,3,Shanghai,China
+USD,2024-03-05,VLSFO,Rotterdam,497,80,1,Rotterdam,Netherlands
+USD,2024-03-30,VLSFO,Shanghai,634,81,3,Shanghai,China
+USD,2024-02-14,MGO,Rotterdam,541,82,1,Rotterdam,Netherlands
+USD,2024-01-06,VLSFO,Los Angeles,569,83,8,Los Angeles,USA
+USD,2024-03-11,VLSFO,Los Angeles,631,84,8,Los Angeles,USA
+USD,2024-03-20,MGO,Hamburg,541,85,7,Hamburg,Germany
+USD,2024-01-31,MGO,Fujairah,498,86,4,Fujairah,UAE
+USD,2024-02-11,IFO380,Hamburg,541,87,7,Hamburg,Germany
+USD,2024-03-08,VLSFO,Rotterdam,591,88,1,Rotterdam,Netherlands
+USD,2024-03-24,MGO,Fujairah,510,89,4,Fujairah,UAE
+USD,2024-03-19,VLSFO,Fujairah,616,90,4,Fujairah,UAE
+USD,2024-01-07,MGO,Fujairah,502,91,4,Fujairah,UAE
+USD,2024-01-18,MGO,Rotterdam,650,92,1,Rotterdam,Netherlands
+USD,2024-02-08,IFO380,Los Angeles,462,93,8,Los Angeles,USA
+USD,2024-03-16,MGO,Rotterdam,605,94,1,Rotterdam,Netherlands
+USD,2024-03-12,IFO380,Fujairah,527,95,4,Fujairah,UAE
+USD,2024-02-24,VLSFO,Fujairah,606,96,4,Fujairah,UAE
+USD,2024-02-19,VLSFO,Shanghai,541,97,3,Shanghai,China
+USD,2024-03-01,IFO380,Fujairah,515,98,4,Fujairah,UAE
+USD,2024-02-01,MGO,Hamburg,459,99,7,Hamburg,Germany
+USD,2024-03-06,IFO380,Hamburg,604,100,7,Hamburg,Germany
+USD,2024-01-12,MGO,Singapore,499,101,2,Singapore,Singapore
+USD,2024-02-08,VLSFO,Los Angeles,451,102,8,Los Angeles,USA
+USD,2024-02-09,MGO,Hamburg,485,103,7,Hamburg,Germany
+USD,2024-01-31,IFO380,Los Angeles,488,104,8,Los Angeles,USA
+USD,2024-01-25,MGO,Singapore,644,105,2,Singapore,Singapore
+USD,2024-02-19,MGO,Hamburg,588,106,7,Hamburg,Germany
+USD,2024-03-14,VLSFO,Antwerp,537,107,6,Antwerp,Belgium
+USD,2024-01-30,IFO380,Fujairah,471,108,4,Fujairah,UAE
+USD,2024-01-10,MGO,Busan,482,109,5,Busan,South Korea
+USD,2024-02-08,MGO,Shanghai,478,110,3,Shanghai,China
+USD,2024-01-05,IFO380,Antwerp,634,111,6,Antwerp,Belgium
+USD,2024-01-28,MGO,Singapore,519,112,2,Singapore,Singapore
+USD,2024-03-31,VLSFO,Singapore,463,113,2,Singapore,Singapore
+USD,2024-02-23,VLSFO,Rotterdam,641,114,1,Rotterdam,Netherlands
+USD,2024-01-15,VLSFO,Fujairah,567,115,4,Fujairah,UAE
+USD,2024-01-29,VLSFO,Los Angeles,588,116,8,Los Angeles,USA
+USD,2024-02-25,IFO380,Busan,581,117,5,Busan,South Korea
+USD,2024-01-02,IFO380,Shanghai,533,118,3,Shanghai,China
+USD,2024-03-23,IFO380,Fujairah,539,119,4,Fujairah,UAE
+USD,2024-02-28,IFO380,Busan,604,120,5,Busan,South Korea
+USD,2024-02-22,VLSFO,Hamburg,622,121,7,Hamburg,Germany
+USD,2024-02-24,IFO380,Shanghai,459,122,3,Shanghai,China
+USD,2024-01-02,VLSFO,Antwerp,620,123,6,Antwerp,Belgium
+USD,2024-01-22,IFO380,Rotterdam,545,124,1,Rotterdam,Netherlands
+USD,2024-02-14,VLSFO,Shanghai,612,125,3,Shanghai,China
+USD,2024-01-13,IFO380,Busan,537,126,5,Busan,South Korea
+USD,2024-02-02,MGO,Shanghai,639,127,3,Shanghai,China
+USD,2024-01-04,VLSFO,Hamburg,596,128,7,Hamburg,Germany
+USD,2024-01-14,MGO,Los Angeles,636,129,8,Los Angeles,USA
+USD,2024-03-25,IFO380,Los Angeles,639,130,8,Los Angeles,USA
+USD,2024-02-20,MGO,Singapore,625,131,2,Singapore,Singapore
+USD,2024-03-28,VLSFO,Antwerp,524,132,6,Antwerp,Belgium
+USD,2024-01-11,MGO,Hamburg,589,133,7,Hamburg,Germany
+USD,2024-01-06,VLSFO,Rotterdam,552,134,1,Rotterdam,Netherlands
+USD,2024-02-25,MGO,Busan,645,135,5,Busan,South Korea
+USD,2024-03-12,VLSFO,Fujairah,453,136,4,Fujairah,UAE
+USD,2024-02-22,IFO380,Los Angeles,464,137,8,Los Angeles,USA
+USD,2024-02-17,VLSFO,Rotterdam,496,138,1,Rotterdam,Netherlands
+USD,2024-01-04,IFO380,Los Angeles,618,139,8,Los Angeles,USA
+USD,2024-01-21,VLSFO,Singapore,530,140,2,Singapore,Singapore
+USD,2024-02-17,VLSFO,Shanghai,544,141,3,Shanghai,China
+USD,2024-01-26,IFO380,Busan,534,142,5,Busan,South Korea
+USD,2024-01-13,VLSFO,Singapore,605,143,2,Singapore,Singapore
+USD,2024-01-08,MGO,Antwerp,512,144,6,Antwerp,Belgium
+USD,2024-02-24,VLSFO,Antwerp,535,145,6,Antwerp,Belgium
+USD,2024-01-29,MGO,Fujairah,464,146,4,Fujairah,UAE
+USD,2024-02-24,IFO380,Singapore,541,147,2,Singapore,Singapore
+USD,2024-03-29,MGO,Fujairah,605,148,4,Fujairah,UAE
+USD,2024-01-09,VLSFO,Shanghai,570,149,3,Shanghai,China
+USD,2024-01-25,IFO380,Busan,480,150,5,Busan,South Korea
+USD,2024-02-02,VLSFO,Busan,515,151,5,Busan,South Korea
+USD,2024-03-21,IFO380,Shanghai,593,152,3,Shanghai,China
+USD,2024-02-25,IFO380,Fujairah,524,153,4,Fujairah,UAE
+USD,2024-01-10,VLSFO,Fujairah,454,154,4,Fujairah,UAE
+USD,2024-01-06,IFO380,Fujairah,528,155,4,Fujairah,UAE
+USD,2024-02-23,MGO,Fujairah,470,156,4,Fujairah,UAE
+USD,2024-01-01,MGO,Busan,575,157,5,Busan,South Korea
+USD,2024-03-07,MGO,Singapore,497,158,2,Singapore,Singapore
+USD,2024-01-05,VLSFO,Hamburg,601,159,7,Hamburg,Germany
+USD,2024-01-23,IFO380,Shanghai,639,160,3,Shanghai,China
+USD,2024-03-28,VLSFO,Antwerp,536,161,6,Antwerp,Belgium
+USD,2024-01-11,MGO,Singapore,576,162,2,Singapore,Singapore
+USD,2024-01-29,MGO,Busan,477,163,5,Busan,South Korea
+USD,2024-01-18,VLSFO,Singapore,625,164,2,Singapore,Singapore
+USD,2024-03-25,VLSFO,Singapore,640,165,2,Singapore,Singapore
+USD,2024-03-01,MGO,Shanghai,507,166,3,Shanghai,China
+USD,2024-01-04,VLSFO,Los Angeles,635,167,8,Los Angeles,USA
+USD,2024-03-28,IFO380,Shanghai,505,168,3,Shanghai,China
+USD,2024-03-12,MGO,Singapore,575,169,2,Singapore,Singapore
+USD,2024-02-08,IFO380,Fujairah,463,170,4,Fujairah,UAE
+USD,2024-01-07,IFO380,Shanghai,623,171,3,Shanghai,China
+USD,2024-02-25,VLSFO,Singapore,607,172,2,Singapore,Singapore
+USD,2024-02-08,MGO,Singapore,485,173,2,Singapore,Singapore
+USD,2024-02-26,VLSFO,Rotterdam,535,174,1,Rotterdam,Netherlands
+USD,2024-01-22,IFO380,Hamburg,523,175,7,Hamburg,Germany
+USD,2024-03-06,VLSFO,Shanghai,467,176,3,Shanghai,China
+USD,2024-01-11,VLSFO,Los Angeles,506,177,8,Los Angeles,USA
+USD,2024-01-16,MGO,Antwerp,457,178,6,Antwerp,Belgium
+USD,2024-03-16,IFO380,Hamburg,526,179,7,Hamburg,Germany
+USD,2024-01-09,IFO380,Los Angeles,469,180,8,Los Angeles,USA
+USD,2024-01-18,VLSFO,Los Angeles,553,181,8,Los Angeles,USA
+USD,2024-02-24,MGO,Singapore,645,182,2,Singapore,Singapore
+USD,2024-03-31,VLSFO,Los Angeles,468,183,8,Los Angeles,USA
+USD,2024-02-25,IFO380,Shanghai,544,184,3,Shanghai,China
+USD,2024-01-18,VLSFO,Shanghai,633,185,3,Shanghai,China
+USD,2024-01-02,MGO,Singapore,564,186,2,Singapore,Singapore
+USD,2024-03-07,MGO,Singapore,547,187,2,Singapore,Singapore
+USD,2024-02-04,MGO,Busan,633,188,5,Busan,South Korea
+USD,2024-03-07,IFO380,Rotterdam,632,189,1,Rotterdam,Netherlands
+USD,2024-03-01,MGO,Shanghai,595,190,3,Shanghai,China
+USD,2024-01-14,IFO380,Antwerp,613,191,6,Antwerp,Belgium
+USD,2024-01-12,VLSFO,Singapore,557,192,2,Singapore,Singapore
+USD,2024-01-15,IFO380,Hamburg,480,193,7,Hamburg,Germany
+USD,2024-02-24,VLSFO,Fujairah,578,194,4,Fujairah,UAE
+USD,2024-03-18,VLSFO,Los Angeles,592,195,8,Los Angeles,USA
+USD,2024-02-02,VLSFO,Los Angeles,487,196,8,Los Angeles,USA
+USD,2024-01-19,VLSFO,Shanghai,555,197,3,Shanghai,China
+USD,2024-03-01,MGO,Hamburg,645,198,7,Hamburg,Germany
+USD,2024-03-10,MGO,Singapore,468,199,2,Singapore,Singapore
+USD,2024-03-15,IFO380,Busan,471,200,5,Busan,South Korea

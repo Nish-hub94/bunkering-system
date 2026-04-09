@@ -1,0 +1,1 @@
+from scripts.load.db_loader import load_to_db
