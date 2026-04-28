@@ -5,7 +5,10 @@ from scripts.extract.sql_loader import load_sql
 from scripts.transform import clean_dataframe
 from scripts.load import load_to_db
 import pandas as pd
-
+from scripts.analytics.kpis import calculate_kpis
+import matplotlib.pyplot as plt
+from scripts.analytics.visualizations import  create_visuals
+from scripts.analytics.benchmarking import run_benchmarking
 
 #..API url....
 url = "http://127.0.0.1:5000/fuel_prices"
@@ -127,5 +130,63 @@ df_suppliers.to_csv("data/cleaned_suppliers.csv", index=False)
 print("All cleaned and merged CSVS exported for Power BI")
 
 
+df = fact_bunkering.copy()
+print(df.columns)
+
+#merging with port
+df_ports = df_ports.drop_duplicates(subset="port_name")
+df =df.merge(df_ports, left_on="port", right_on="port_name", how="left")
+print(df.columns)
+
+df.drop(columns =["port_name"], inplace = True)
+print(df.columns)
+
+#merging with suppliers
+print(df_suppliers.columns)
+df_suppliers = df_suppliers.drop_duplicates(subset="supplier_name")
+df =df.merge(df_suppliers, left_on="supplier",right_on="supplier_name", how="left")
+print(df.columns)
+
+df.drop(columns=["supplier_name"], inplace =True)
+print(df.columns)
+
+#validating the merged dataset
+print(df.isnull().sum())
+print(len(df))
+
+#saving the final dataset
+df.to_csv("outputs/final_merged_dataset.csv", index=False)
+
+#saving the KPIs to file
+kpis= calculate_kpis(df_csv)
+
+#saving to text file
+with open ("outputs/kpis.txt", "w") as kpis_file:
+    for key, value in kpis.items():
+        kpis_file.write(f"{key}: {value}\n")
+
+print("KPIS saved")
+
+#calling visualisations
+create_visuals(df_csv)
+print("Charts created successfully")
+
+#calling benchmarking
+run_benchmarking(df_csv)
+print("Benchmarking completed")
 
 
+def run_pipeline():
+    print("Pipeline Started")
+
+    url = "http://127.0.0.1:5000/fuel_prices"
+
+    df_csv = load_csv("data/fuel_deliveries.csv")
+    df_excel = load_excel("data/vessel_logs.xlsx")
+    df_api = load_api(url)
+
+    print("All data loaded successfully")
+
+
+if __name__ == "__main__":
+    run_pipeline()

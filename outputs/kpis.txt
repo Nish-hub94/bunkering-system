@@ -1,0 +1,6 @@
+Total Fuel Cost: 59794720
+Total Fuel Quantity: 109203
+Average Price: 548.02
+Cost Efficiency: 547.5556532329698
+Cheapest Port: Busan
+Most Used Fuel: VLSFO
