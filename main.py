@@ -9,6 +9,7 @@ from scripts.analytics.kpis import calculate_kpis
 import matplotlib.pyplot as plt
 from scripts.analytics.visualizations import  create_visuals
 from scripts.analytics.benchmarking import run_benchmarking
+import os
 
 #..API url....
 url = "http://127.0.0.1:5000/fuel_prices"
@@ -22,7 +23,12 @@ connection_string_dw = "mysql+pymysql://root:letMEin2331!@127.0.0.1:3306/cleaned
 #....Loading  the raw data.....
 df_csv = load_csv("data/fuel_deliveries.csv")
 df_excel = load_excel("data/vessel_logs.xlsx")
-df_api = load_api(url)
+
+if os.getenv("CI") != "true":
+    df_api = load_api(url)
+else:
+    df_api =pd.DataFrame()
+
 
 #...sql data...
 sql_data= load_sql(connection_string)

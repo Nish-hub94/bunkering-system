@@ -31,6 +31,8 @@ jobs:
 
 
       - name: Run Tests
+        env:
+          CI: "true"
         run:
           export PYTHONPATH=$PYTHONPATH:.
           pytest
