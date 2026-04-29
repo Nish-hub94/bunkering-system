@@ -1,0 +1,201 @@
+transaction_id,vessel_name,port,fuel_type,quantity_mt,price_per_mt,date,supplier,port_id,country,supplier_id,rating
+T001,MSC Diana,Shanghai,IFO380,449,453,02/02/2024,BP,3,China,2,5
+T002,Ever Given,Busan,MGO,770,484,29/03/2024,Chevron,5,South Korea,5,5
+T003,OOCL Hong Kong,Rotterdam,IFO380,520,543,10/03/2024,Shell,1,Netherlands,1,4
+T004,MSC Zoe,Shanghai,VLSFO,758,495,07/03/2024,Total,3,China,3,4
+T005,Maersk McKinney Moller,Rotterdam,VLSFO,463,593,04/03/2024,Emirates Fuel,1,Netherlands,4,4
+T006,Maersk McKinney Moller,Antwerp,VLSFO,783,633,08/03/2024,Chevron,6,Belgium,5,5
+T007,Maersk McKinney Moller,Shanghai,IFO380,749,578,18/01/2024,Chevron,3,China,5,5
+T008,Maersk Line,Antwerp,MGO,793,541,18/03/2024,Emirates Fuel,6,Belgium,4,4
+T009,Maersk McKinney Moller,Busan,MGO,595,599,31/03/2024,Chevron,5,South Korea,5,5
+T010,MSC Oscar,Rotterdam,IFO380,571,630,14/01/2024,Total,1,Netherlands,3,4
+T011,Maersk McKinney Moller,Antwerp,MGO,458,621,02/02/2024,Emirates Fuel,6,Belgium,4,4
+T012,OOCL Hong Kong,Shanghai,MGO,624,562,29/02/2024,Shell,3,China,1,4
+T013,CMA CGM Jacques Saade,Fujairah,MGO,524,483,24/02/2024,Chevron,4,UAE,5,5
+T014,MSC Oscar,Fujairah,VLSFO,483,554,01/02/2024,Shell,4,UAE,1,4
+T015,OOCL Hong Kong,Antwerp,VLSFO,501,560,20/01/2024,Emirates Fuel,6,Belgium,4,4
+T016,Ever Given,Fujairah,VLSFO,484,632,26/02/2024,Emirates Fuel,4,UAE,4,4
+T017,MSC Zoe,Antwerp,MGO,406,484,18/03/2024,Chevron,6,Belgium,5,5
+T018,MSC Oscar,Shanghai,MGO,681,480,21/02/2024,Total,3,China,3,4
+T019,Maersk Line,Shanghai,IFO380,579,543,20/02/2024,Total,3,China,3,4
+T020,Maersk Line,Fujairah,IFO380,527,627,05/02/2024,Shell,4,UAE,1,4
+T021,CMA CGM Jacques Saade,Shanghai,MGO,424,608,01/01/2024,Shell,3,China,1,4
+T022,HMM Algeciras,Singapore,MGO,478,557,03/03/2024,Total,2,Singapore,3,4
+T023,MSC Oscar,Antwerp,VLSFO,569,546,02/01/2024,Total,6,Belgium,3,4
+T024,OOCL Hong Kong,Rotterdam,IFO380,753,540,25/01/2024,Chevron,1,Netherlands,5,5
+T025,OOCL Hong Kong,Antwerp,IFO380,545,460,23/02/2024,Emirates Fuel,6,Belgium,4,4
+T026,MSC Diana,Antwerp,VLSFO,779,496,28/03/2024,Chevron,6,Belgium,5,5
+T027,OOCL Hong Kong,Singapore,VLSFO,453,627,25/03/2024,Chevron,2,Singapore,5,5
+T028,OOCL Hong Kong,Antwerp,IFO380,450,475,03/03/2024,Emirates Fuel,6,Belgium,4,4
+T029,MSC Oscar,Busan,IFO380,636,451,15/02/2024,Chevron,5,South Korea,5,5
+T030,OOCL Hong Kong,Singapore,IFO380,617,572,22/03/2024,Emirates Fuel,2,Singapore,4,4
+T031,Maersk McKinney Moller,Fujairah,VLSFO,355,541,05/02/2024,BP,4,UAE,2,5
+T032,MSC Diana,Rotterdam,IFO380,652,488,28/02/2024,Total,1,Netherlands,3,4
+T033,CMA CGM Jacques Saade,Antwerp,VLSFO,681,644,03/02/2024,Total,6,Belgium,3,4
+T034,Ever Given,Fujairah,MGO,371,524,21/01/2024,Chevron,4,UAE,5,5
+T035,Maersk Line,Shanghai,MGO,524,460,04/01/2024,Total,3,China,3,4
+T036,MSC Zoe,Shanghai,VLSFO,421,514,08/03/2024,Shell,3,China,1,4
+T037,HMM Algeciras,Antwerp,MGO,582,508,26/02/2024,Total,6,Belgium,3,4
+T038,Ever Given,Singapore,IFO380,317,646,31/01/2024,Chevron,2,Singapore,5,5
+T039,MSC Zoe,Antwerp,MGO,708,586,08/01/2024,Total,6,Belgium,3,4
+T040,MSC Zoe,Fujairah,MGO,371,572,05/02/2024,Chevron,4,UAE,5,5
+T041,Ever Given,Rotterdam,IFO380,514,645,04/02/2024,Emirates Fuel,1,Netherlands,4,4
+T042,HMM Algeciras,Fujairah,IFO380,350,628,07/01/2024,Shell,4,UAE,1,4
+T043,MSC Oscar,Antwerp,VLSFO,515,648,23/01/2024,BP,6,Belgium,2,5
+T044,Ever Globe,Singapore,IFO380,672,649,30/01/2024,Emirates Fuel,2,Singapore,4,4
+T045,Maersk Line,Singapore,VLSFO,341,601,10/01/2024,Total,2,Singapore,3,4
+T046,CMA CGM Jacques Saade,Shanghai,MGO,495,499,16/02/2024,Emirates Fuel,3,China,4,4
+T047,MSC Oscar,Busan,VLSFO,506,566,28/02/2024,Total,5,South Korea,3,4
+T048,MSC Oscar,Busan,IFO380,310,582,20/02/2024,Shell,5,South Korea,1,4
+T049,Maersk McKinney Moller,Antwerp,MGO,303,456,31/03/2024,Shell,6,Belgium,1,4
+T050,MSC Zoe,Shanghai,MGO,697,580,15/03/2024,Emirates Fuel,3,China,4,4
+T051,Ever Given,Antwerp,MGO,356,546,19/03/2024,Emirates Fuel,6,Belgium,4,4
+T052,Ever Given,Singapore,VLSFO,790,606,28/02/2024,BP,2,Singapore,2,5
+T053,MSC Oscar,Antwerp,IFO380,590,588,08/03/2024,Total,6,Belgium,3,4
+T054,MSC Zoe,Rotterdam,MGO,631,532,08/03/2024,Shell,1,Netherlands,1,4
+T055,Ever Globe,Singapore,IFO380,435,544,06/02/2024,BP,2,Singapore,2,5
+T056,Maersk McKinney Moller,Rotterdam,IFO380,415,628,13/03/2024,Total,1,Netherlands,3,4
+T057,Ever Globe,Busan,VLSFO,413,494,17/01/2024,Emirates Fuel,5,South Korea,4,4
+T058,MSC Zoe,Shanghai,MGO,584,550,03/02/2024,BP,3,China,2,5
+T059,MSC Diana,Fujairah,MGO,497,494,07/02/2024,Shell,4,UAE,1,4
+T060,MSC Oscar,Singapore,VLSFO,578,469,28/01/2024,BP,2,Singapore,2,5
+T061,Maersk McKinney Moller,Shanghai,VLSFO,398,584,18/03/2024,Shell,3,China,1,4
+T062,HMM Algeciras,Busan,IFO380,379,635,15/03/2024,BP,5,South Korea,2,5
+T063,Ever Given,Singapore,IFO380,726,475,10/03/2024,Shell,2,Singapore,1,4
+T064,HMM Algeciras,Shanghai,VLSFO,730,623,26/03/2024,BP,3,China,2,5
+T065,Maersk McKinney Moller,Rotterdam,IFO380,450,521,29/02/2024,Total,1,Netherlands,3,4
+T066,CMA CGM Jacques Saade,Singapore,VLSFO,789,617,21/01/2024,Emirates Fuel,2,Singapore,4,4
+T067,Ever Given,Singapore,IFO380,436,602,05/01/2024,Shell,2,Singapore,1,4
+T068,Ever Globe,Fujairah,VLSFO,361,463,08/03/2024,Chevron,4,UAE,5,5
+T069,OOCL Hong Kong,Singapore,VLSFO,515,459,04/02/2024,Total,2,Singapore,3,4
+T070,Maersk McKinney Moller,Antwerp,VLSFO,743,478,17/02/2024,Chevron,6,Belgium,5,5
+T071,HMM Algeciras,Singapore,VLSFO,583,507,13/02/2024,Emirates Fuel,2,Singapore,4,4
+T072,CMA CGM Jacques Saade,Rotterdam,IFO380,756,604,25/03/2024,Chevron,1,Netherlands,5,5
+T073,Maersk McKinney Moller,Busan,IFO380,647,549,21/01/2024,Chevron,5,South Korea,5,5
+T074,Ever Globe,Antwerp,MGO,472,531,20/03/2024,Emirates Fuel,6,Belgium,4,4
+T075,Ever Given,Fujairah,IFO380,460,617,24/03/2024,Shell,4,UAE,1,4
+T076,HMM Algeciras,Busan,VLSFO,309,478,20/03/2024,Shell,5,South Korea,1,4
+T077,MSC Oscar,Busan,VLSFO,527,547,07/02/2024,Chevron,5,South Korea,5,5
+T078,HMM Algeciras,Busan,VLSFO,385,460,01/01/2024,BP,5,South Korea,2,5
+T079,MSC Oscar,Shanghai,VLSFO,644,648,28/03/2024,Total,3,China,3,4
+T080,Maersk McKinney Moller,Shanghai,MGO,730,559,18/02/2024,BP,3,China,2,5
+T081,MSC Zoe,Shanghai,VLSFO,531,586,14/02/2024,Total,3,China,3,4
+T082,HMM Algeciras,Antwerp,MGO,475,487,12/03/2024,Shell,6,Belgium,1,4
+T083,Maersk McKinney Moller,Singapore,VLSFO,431,581,28/01/2024,Emirates Fuel,2,Singapore,4,4
+T084,Maersk McKinney Moller,Shanghai,MGO,437,609,29/02/2024,BP,3,China,2,5
+T085,MSC Diana,Antwerp,VLSFO,795,477,22/01/2024,Total,6,Belgium,3,4
+T086,HMM Algeciras,Singapore,MGO,710,578,16/01/2024,Shell,2,Singapore,1,4
+T087,MSC Zoe,Rotterdam,IFO380,770,635,13/01/2024,Emirates Fuel,1,Netherlands,4,4
+T088,Maersk Line,Busan,MGO,438,643,29/03/2024,Total,5,South Korea,3,4
+T089,MSC Diana,Antwerp,VLSFO,377,647,12/03/2024,Total,6,Belgium,3,4
+T090,Maersk McKinney Moller,Fujairah,IFO380,630,552,23/03/2024,Chevron,4,UAE,5,5
+T091,MSC Diana,Rotterdam,VLSFO,449,467,08/01/2024,BP,1,Netherlands,2,5
+T092,HMM Algeciras,Shanghai,VLSFO,678,493,02/01/2024,Emirates Fuel,3,China,4,4
+T093,OOCL Hong Kong,Rotterdam,IFO380,757,541,06/02/2024,BP,1,Netherlands,2,5
+T094,CMA CGM Jacques Saade,Busan,VLSFO,334,504,26/02/2024,Chevron,5,South Korea,5,5
+T095,OOCL Hong Kong,Fujairah,VLSFO,468,580,29/02/2024,Shell,4,UAE,1,4
+T096,CMA CGM Jacques Saade,Antwerp,VLSFO,316,566,15/01/2024,Chevron,6,Belgium,5,5
+T097,CMA CGM Jacques Saade,Antwerp,VLSFO,409,595,28/03/2024,Emirates Fuel,6,Belgium,4,4
+T098,Ever Given,Shanghai,IFO380,513,511,29/01/2024,Emirates Fuel,3,China,4,4
+T099,CMA CGM Jacques Saade,Antwerp,IFO380,386,635,04/03/2024,Shell,6,Belgium,1,4
+T100,Ever Globe,Busan,MGO,537,500,13/02/2024,Chevron,5,South Korea,5,5
+T101,Maersk McKinney Moller,Busan,IFO380,761,493,16/02/2024,Total,5,South Korea,3,4
+T102,MSC Diana,Rotterdam,MGO,695,577,20/01/2024,BP,1,Netherlands,2,5
+T103,MSC Oscar,Singapore,VLSFO,758,576,18/01/2024,Chevron,2,Singapore,5,5
+T104,CMA CGM Jacques Saade,Rotterdam,IFO380,663,506,16/03/2024,BP,1,Netherlands,2,5
+T105,Ever Globe,Busan,VLSFO,399,487,27/01/2024,Total,5,South Korea,3,4
+T106,MSC Oscar,Busan,VLSFO,599,476,18/01/2024,Shell,5,South Korea,1,4
+T107,Ever Given,Busan,MGO,570,496,21/02/2024,Emirates Fuel,5,South Korea,4,4
+T108,Maersk McKinney Moller,Rotterdam,VLSFO,754,551,05/01/2024,Total,1,Netherlands,3,4
+T109,Maersk Line,Shanghai,VLSFO,641,648,05/02/2024,Emirates Fuel,3,China,4,4
+T110,Maersk Line,Singapore,IFO380,571,534,23/03/2024,Chevron,2,Singapore,5,5
+T111,Maersk McKinney Moller,Busan,IFO380,380,586,23/01/2024,Chevron,5,South Korea,5,5
+T112,MSC Diana,Rotterdam,IFO380,657,512,27/02/2024,Shell,1,Netherlands,1,4
+T113,MSC Zoe,Busan,MGO,719,502,04/03/2024,Total,5,South Korea,3,4
+T114,MSC Oscar,Singapore,MGO,536,572,20/01/2024,Total,2,Singapore,3,4
+T115,MSC Zoe,Fujairah,VLSFO,388,635,19/03/2024,Emirates Fuel,4,UAE,4,4
+T116,CMA CGM Jacques Saade,Singapore,VLSFO,480,531,18/01/2024,Chevron,2,Singapore,5,5
+T117,OOCL Hong Kong,Rotterdam,MGO,531,631,28/02/2024,Shell,1,Netherlands,1,4
+T118,MSC Oscar,Rotterdam,VLSFO,460,581,21/01/2024,Total,1,Netherlands,3,4
+T119,OOCL Hong Kong,Busan,IFO380,795,510,29/03/2024,Emirates Fuel,5,South Korea,4,4
+T120,HMM Algeciras,Busan,VLSFO,464,496,15/02/2024,Chevron,5,South Korea,5,5
+T121,MSC Zoe,Rotterdam,MGO,452,587,29/03/2024,BP,1,Netherlands,2,5
+T122,OOCL Hong Kong,Singapore,MGO,627,461,28/02/2024,Shell,2,Singapore,1,4
+T123,Maersk Line,Rotterdam,MGO,616,510,06/03/2024,Emirates Fuel,1,Netherlands,4,4
+T124,Maersk McKinney Moller,Rotterdam,IFO380,393,483,27/01/2024,Chevron,1,Netherlands,5,5
+T125,Maersk McKinney Moller,Singapore,VLSFO,456,640,01/01/2024,Total,2,Singapore,3,4
+T126,MSC Zoe,Rotterdam,MGO,692,471,04/03/2024,Total,1,Netherlands,3,4
+T127,MSC Oscar,Singapore,MGO,565,480,23/03/2024,BP,2,Singapore,2,5
+T128,MSC Oscar,Singapore,MGO,303,488,22/03/2024,Shell,2,Singapore,1,4
+T129,CMA CGM Jacques Saade,Fujairah,IFO380,388,452,14/01/2024,Total,4,UAE,3,4
+T130,MSC Zoe,Shanghai,VLSFO,436,520,29/03/2024,Total,3,China,3,4
+T131,MSC Zoe,Antwerp,MGO,336,457,02/03/2024,Total,6,Belgium,3,4
+T132,HMM Algeciras,Rotterdam,IFO380,591,548,29/03/2024,Total,1,Netherlands,3,4
+T133,MSC Oscar,Shanghai,VLSFO,531,558,31/01/2024,Emirates Fuel,3,China,4,4
+T134,CMA CGM Jacques Saade,Busan,VLSFO,762,462,02/01/2024,Total,5,South Korea,3,4
+T135,Ever Globe,Fujairah,MGO,729,629,14/01/2024,BP,4,UAE,2,5
+T136,MSC Diana,Busan,MGO,714,503,02/02/2024,Total,5,South Korea,3,4
+T137,MSC Diana,Busan,MGO,685,514,24/01/2024,Chevron,5,South Korea,5,5
+T138,Maersk McKinney Moller,Rotterdam,VLSFO,683,468,13/02/2024,Shell,1,Netherlands,1,4
+T139,Ever Given,Shanghai,VLSFO,584,637,22/01/2024,Shell,3,China,1,4
+T140,Ever Given,Busan,IFO380,513,461,27/02/2024,Total,5,South Korea,3,4
+T141,Maersk Line,Singapore,VLSFO,647,538,14/01/2024,BP,2,Singapore,2,5
+T142,Ever Given,Shanghai,VLSFO,615,583,13/02/2024,Total,3,China,3,4
+T143,Maersk McKinney Moller,Shanghai,IFO380,642,496,20/03/2024,Emirates Fuel,3,China,4,4
+T144,Maersk Line,Busan,VLSFO,523,544,18/02/2024,BP,5,South Korea,2,5
+T145,MSC Diana,Antwerp,VLSFO,358,620,22/02/2024,Chevron,6,Belgium,5,5
+T146,MSC Zoe,Rotterdam,IFO380,670,577,29/02/2024,Shell,1,Netherlands,1,4
+T147,Ever Globe,Singapore,IFO380,436,511,21/03/2024,Emirates Fuel,2,Singapore,4,4
+T148,Maersk Line,Busan,VLSFO,458,579,13/01/2024,Chevron,5,South Korea,5,5
+T149,Maersk Line,Busan,IFO380,619,549,14/01/2024,BP,5,South Korea,2,5
+T150,Maersk McKinney Moller,Shanghai,MGO,456,516,16/02/2024,Total,3,China,3,4
+T151,Ever Globe,Fujairah,IFO380,554,494,29/03/2024,Shell,4,UAE,1,4
+T152,MSC Zoe,Busan,MGO,616,483,14/01/2024,BP,5,South Korea,2,5
+T153,MSC Oscar,Rotterdam,MGO,491,611,07/02/2024,BP,1,Netherlands,2,5
+T154,Ever Globe,Singapore,IFO380,420,500,15/03/2024,Shell,2,Singapore,1,4
+T155,MSC Zoe,Rotterdam,VLSFO,669,618,03/02/2024,BP,1,Netherlands,2,5
+T156,OOCL Hong Kong,Fujairah,MGO,502,495,13/01/2024,Shell,4,UAE,1,4
+T157,MSC Oscar,Antwerp,MGO,407,473,16/01/2024,Chevron,6,Belgium,5,5
+T158,MSC Diana,Rotterdam,MGO,787,604,22/01/2024,Total,1,Netherlands,3,4
+T159,Ever Globe,Busan,VLSFO,500,488,01/01/2024,Total,5,South Korea,3,4
+T160,CMA CGM Jacques Saade,Rotterdam,VLSFO,730,515,19/03/2024,Shell,1,Netherlands,1,4
+T161,Maersk McKinney Moller,Rotterdam,IFO380,777,477,22/02/2024,Shell,1,Netherlands,1,4
+T162,MSC Oscar,Singapore,IFO380,784,500,15/03/2024,Chevron,2,Singapore,5,5
+T163,MSC Oscar,Busan,VLSFO,637,553,08/01/2024,Emirates Fuel,5,South Korea,4,4
+T164,Ever Globe,Fujairah,IFO380,657,608,17/03/2024,Shell,4,UAE,1,4
+T165,HMM Algeciras,Busan,VLSFO,730,595,07/03/2024,Chevron,5,South Korea,5,5
+T166,Maersk Line,Rotterdam,IFO380,447,514,11/01/2024,Emirates Fuel,1,Netherlands,4,4
+T167,Ever Globe,Fujairah,MGO,640,646,13/01/2024,Total,4,UAE,3,4
+T168,Maersk Line,Rotterdam,MGO,320,490,07/02/2024,Total,1,Netherlands,3,4
+T169,MSC Zoe,Busan,MGO,774,489,03/02/2024,Emirates Fuel,5,South Korea,4,4
+T170,MSC Oscar,Fujairah,MGO,339,552,24/02/2024,Total,4,UAE,3,4
+T171,Ever Globe,Busan,IFO380,427,460,15/01/2024,Emirates Fuel,5,South Korea,4,4
+T172,CMA CGM Jacques Saade,Rotterdam,IFO380,388,504,05/01/2024,BP,1,Netherlands,2,5
+T173,HMM Algeciras,Fujairah,VLSFO,451,607,09/02/2024,Shell,4,UAE,1,4
+T174,MSC Oscar,Fujairah,IFO380,392,614,22/02/2024,BP,4,UAE,2,5
+T175,Maersk McKinney Moller,Rotterdam,IFO380,746,560,25/02/2024,Shell,1,Netherlands,1,4
+T176,MSC Oscar,Rotterdam,VLSFO,393,612,20/03/2024,Emirates Fuel,1,Netherlands,4,4
+T177,OOCL Hong Kong,Busan,IFO380,610,650,23/01/2024,BP,5,South Korea,2,5
+T178,Ever Given,Busan,IFO380,499,585,23/03/2024,Shell,5,South Korea,1,4
+T179,OOCL Hong Kong,Rotterdam,IFO380,347,591,27/03/2024,BP,1,Netherlands,2,5
+T180,Ever Globe,Shanghai,VLSFO,613,505,12/02/2024,Total,3,China,3,4
+T181,MSC Diana,Busan,IFO380,754,476,19/01/2024,Chevron,5,South Korea,5,5
+T182,CMA CGM Jacques Saade,Busan,VLSFO,712,495,26/03/2024,Shell,5,South Korea,1,4
+T183,MSC Oscar,Fujairah,MGO,428,548,19/01/2024,Shell,4,UAE,1,4
+T184,Maersk McKinney Moller,Antwerp,IFO380,368,587,28/02/2024,Total,6,Belgium,3,4
+T185,MSC Zoe,Fujairah,IFO380,362,532,12/01/2024,Chevron,4,UAE,5,5
+T186,CMA CGM Jacques Saade,Shanghai,MGO,494,619,04/01/2024,Total,3,China,3,4
+T187,Ever Given,Rotterdam,MGO,557,571,24/01/2024,Chevron,1,Netherlands,5,5
+T188,Ever Given,Busan,VLSFO,638,588,19/02/2024,BP,5,South Korea,2,5
+T189,HMM Algeciras,Busan,IFO380,434,469,22/01/2024,Total,5,South Korea,3,4
+T190,Maersk Line,Singapore,VLSFO,515,563,31/01/2024,Chevron,2,Singapore,5,5
+T191,Ever Given,Busan,IFO380,446,497,07/02/2024,Emirates Fuel,5,South Korea,4,4
+T192,HMM Algeciras,Rotterdam,VLSFO,415,635,05/03/2024,Chevron,1,Netherlands,5,5
+T193,Maersk Line,Shanghai,IFO380,759,649,09/03/2024,Emirates Fuel,3,China,4,4
+T194,OOCL Hong Kong,Singapore,VLSFO,433,551,18/02/2024,Total,2,Singapore,3,4
+T195,MSC Zoe,Singapore,VLSFO,536,554,06/01/2024,BP,2,Singapore,2,5
+T196,Maersk McKinney Moller,Rotterdam,IFO380,415,548,12/01/2024,Total,1,Netherlands,3,4
+T197,MSC Zoe,Busan,VLSFO,503,592,07/03/2024,Shell,5,South Korea,1,4
+T198,CMA CGM Jacques Saade,Rotterdam,VLSFO,601,551,25/02/2024,Total,1,Netherlands,3,4
+T199,HMM Algeciras,Singapore,MGO,331,563,17/03/2024,Emirates Fuel,2,Singapore,4,4
+T200,HMM Algeciras,Busan,VLSFO,677,522,02/02/2024,Emirates Fuel,5,South Korea,4,4
