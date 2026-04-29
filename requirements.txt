@@ -8,3 +8,4 @@ seaborn~=0.13.2
 numpy~=2.4.4
 pytest
 pymysql
+flake8
