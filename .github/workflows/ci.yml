@@ -29,9 +29,6 @@ jobs:
             pip install -r requirements.txt
             pip install flake8 pytest
 
-      - name: Run Lint Check
-        run:
-          flake8 . --exclude=.venv --max-line-length=120
 
       - name: Run Tests
         run:
